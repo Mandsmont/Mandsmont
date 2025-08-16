@@ -8,8 +8,7 @@
 🚀 Explorando aplicações de IA e Business Intelligence
 
 <p **align**="center">
-  <a href="www.linkedin.com/in/
-amandamonteiro99/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="www.linkedin.com/in/amandamonteiro99/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
