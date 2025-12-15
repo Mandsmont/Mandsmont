@@ -62,15 +62,6 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <p>
-    <a href="https://git.io/streak-stats">
-      <img
-        title="GitHub Streak Stats"
-        alt="Mandsmont's streak"
-        src="https://streak-stats.demolab.com/?user=Mandsmont&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
-    </a>
-  </p>
-
   <h3>💻 GitHub Profile Stats</h3>
 
   <p>
